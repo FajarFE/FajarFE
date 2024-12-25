@@ -2,14 +2,7 @@
 <p>
   I am a passionate Web Developer with a strong focus on Frontend Development, particularly in building responsive, user-friendly interfaces. However, I am also keen on expanding my skill set, and I am open to taking on Fullstack or Backend roles if required. I believe that continuous learning is key to growth, and I am always excited to explore new technologies and improve my development skills. With experience in Next.js, React, Laravel,  and various other tools, I am committed to delivering high-quality solutions while constantly enhancing my technical expertise.
 </p>
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FAJARFE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FAJARFE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <br clear="both">
 
@@ -67,6 +60,13 @@
   </a>
 </div>
 
+###
+
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FAJARFE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FAJARFE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 ###
 
 <br clear="both">
