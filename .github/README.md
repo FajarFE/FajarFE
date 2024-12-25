@@ -1,17 +1,12 @@
-<h2 align="left">Hi 👋! My name is Fajar Fernandi and I'm a Frontend Developer, from Indonesian</h2>
+<div align="left">
+  
+<h2 >Hi 👋! My name is Fajar Fernandi and I'm a Frontend Developer, from Indonesian</h2>
 <p>
   I am a passionate Web Developer with a strong focus on Frontend Development, particularly in building responsive, user-friendly interfaces. However, I am also keen on expanding my skill set, and I am open to taking on Fullstack or Backend roles if required. I believe that continuous learning is key to growth, and I am always excited to explore new technologies and improve my development skills. With experience in Next.js, React, Laravel,  and various other tools, I am committed to delivering high-quality solutions while constantly enhancing my technical expertise.
 </p>
-<br><br>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FAJARFE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FAJARFE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
 <br clear="both">
 
@@ -51,6 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
+<br><br>
 ###
 
 <div align="left">
@@ -67,6 +63,19 @@
   <a href="https://www.facebook.com/fajar.fernandi.9/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FAJARFE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FAJARFE&locale=id&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=fajarfe&locale=id&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
