@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Fajar Fernandi and I'm a Frontend Developer, from Indonesian<br><br>I am a passionate Web Developer with a strong focus on Frontend Development, particularly in building responsive, user-friendly interfaces. However, I am also keen on expanding my skill set, and I am open to taking on Fullstack or Backend roles if required. I believe that continuous learning is key to growth, and I am always excited to explore new technologies and improve my development skills. With experience in Next.js, React, Laravel,  and various other tools, I am committed to delivering high-quality solutions while constantly enhancing my technical expertise.</h2>
+<h2 align="left">Hi 👋! My name is Fajar Fernandi and I'm a Frontend Developer, from Indonesian</h2>
+<p>
+  I am a passionate Web Developer with a strong focus on Frontend Development, particularly in building responsive, user-friendly interfaces. However, I am also keen on expanding my skill set, and I am open to taking on Fullstack or Backend roles if required. I believe that continuous learning is key to growth, and I am always excited to explore new technologies and improve my development skills. With experience in Next.js, React, Laravel,  and various other tools, I am committed to delivering high-quality solutions while constantly enhancing my technical expertise.
+</p>
+<br><br>
 
 ###
 
