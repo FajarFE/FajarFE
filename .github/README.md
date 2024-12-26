@@ -1,12 +1,7 @@
 
 
 ![Header](https://github.com/FajarFE/FajarFE/raw/main/github-header-image.png)
-<table style="border: none;">
-  <tr style="border: 0px;">
-    <td style="border: 0px;" style="text-align: center; vertical-align: middle;">
       <img src="https://github.com/FajarFE/FajarFE/raw/main/github-header-image.png" alt="Foto" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
-    </td>
-    <td style="border: 0px;">
       <h2>Hi 👋! My name is Fajar Fernandi</h2>
       <p>
         I am a passionate Web Developer with a strong focus on Frontend Development, particularly in building responsive, user-friendly interfaces. However, I am also keen on expanding my skill set, and I am open to taking on Fullstack or Backend roles if required.
@@ -14,10 +9,7 @@
       <a href="https://github.com/FajarFE/FajarFE/raw/main/Fajar%20Fernandi_Frontend%20Developer.pdf" target="_blank">
         <img src="https://img.shields.io/badge/Download-CV-blue?style=flat-square&logo=google-drive" alt="Download CV">
       </a>
-    </td>
-  </tr>
-</table>
-
+  
 
 
 
