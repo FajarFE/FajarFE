@@ -1,5 +1,5 @@
 ![Header](https://github.com/FajarFE/FajarFE/raw/main/github-header-image.png)
-<table border="0">
+<table style="border: none;">
   <tr>
     <td style="text-align: center; vertical-align: middle;">
       <img src="https://github.com/FajarFE/FajarFE/raw/main/github-header-image.png" alt="Foto" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
@@ -15,6 +15,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
