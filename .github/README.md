@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 ![Header](https://github.com/FajarFE/FajarFE/raw/main/github-header-image.png)
 <table style="border: none;">
   <tr>
