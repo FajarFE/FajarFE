@@ -1,4 +1,4 @@
-![Header](../github-header-image.png)
+![Header](https://github.com/FajarFE/FajarFE/raw/main/github-header-image.png)
 
 <div align="left">
   
