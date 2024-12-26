@@ -1,19 +1,21 @@
 ![Header](https://github.com/FajarFE/FajarFE/raw/main/github-header-image.png)
-
 <div style="display: grid; grid-template-columns: repeat(12, 1fr); gap: 10px;">
- <div style="grid-column:span 3">
-  <img src="https://github.com/FajarFE/FajarFE/raw/main/github-header-image.png" alt="Foto" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
- </div>
- <div style="grid-column: span 9" align="left">
- 
-<h2 >Hi 👋! My name is Fajar Fernandi and I'm a Frontend Developer</h2>
-<p>
-  I am a passionate Web Developer with a strong focus on Frontend Development, particularly in building responsive, user-friendly interfaces. However, I am also keen on expanding my skill set, and I am open to taking on Fullstack or Backend roles if required. I believe that continuous learning is key to growth, and I am always excited to explore new technologies and improve my development skills. With experience in Next.js, React, Laravel,  and various other tools, I am committed to delivering high-quality solutions while constantly enhancing my technical expertise.
-  
-[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=flat-square&logo=google-drive)](https://github.com/FajarFE/FajarFE/raw/main/Fajar%20Fernandi_Frontend%20Developer.pdf)
-</p>
+  <div style="grid-column: span 3; text-align: center;">
+    <img src="https://github.com/FajarFE/FajarFE/raw/main/github-header-image.png" alt="Foto" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
+  </div>
+  <div style="grid-column: span 9; align-items: center;">
+    <h2>Hi 👋! My name is Fajar Fernandi and I'm a Frontend Developer</h2>
+    <p>
+      I am a passionate Web Developer with a strong focus on Frontend Development, particularly in building responsive, user-friendly interfaces. However, I am also keen on expanding my skill set, and I am open to taking on Fullstack or Backend roles if required. I believe that continuous learning is key to growth, and I am always excited to explore new technologies and improve my development skills. With experience in Next.js, React, Laravel, and various other tools, I am committed to delivering high-quality solutions while constantly enhancing my technical expertise.
+    </p>
+    <p>
+      <a href="https://github.com/FajarFE/FajarFE/raw/main/Fajar%20Fernandi_Frontend%20Developer.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/Download-CV-blue?style=flat-square&logo=google-drive" alt="Download CV">
+      </a>
+    </p>
+  </div>
 </div>
-</div>
+
 
 
 
