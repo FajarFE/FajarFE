@@ -1,3 +1,5 @@
+![Header](../github-header-image.png)
+
 <div align="left">
   
 <h2 >Hi 👋! My name is Fajar Fernandi and I'm a Frontend Developer</h2>
