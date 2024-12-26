@@ -1,6 +1,10 @@
 ![Header](https://github.com/FajarFE/FajarFE/raw/main/github-header-image.png)
 
-<div align="left">
+<div style="display: grid; grid-template-columns: repeat(12, 1fr); gap: 10px;">
+ <div style="grid-column:span 3">
+  <img src="https://github.com/FajarFE/FajarFE/raw/main/github-header-image.png" alt="Foto" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;">
+ </div>
+ <div style="grid-column: span 9" align="left">
  
 <h2 >Hi 👋! My name is Fajar Fernandi and I'm a Frontend Developer</h2>
 <p>
@@ -9,6 +13,9 @@
 [![Download CV](https://img.shields.io/badge/Download-CV-blue?style=flat-square&logo=google-drive)](https://github.com/FajarFE/FajarFE/raw/main/Fajar%20Fernandi_Frontend%20Developer.pdf)
 </p>
 </div>
+</div>
+
+
 
 
 
